@@ -1,0 +1,9 @@
+Package: com.yourname.cdtweak
+Name: CDTweak
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: 单机游戏CD练手Tweak
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
+Depends: mobilesubstrate
